@@ -1,0 +1,32 @@
+.swiper-container {
+  height: 100px;
+}
+
+.item {
+  height: 100%;
+  line-height: 100px;
+  text-align: center;
+}
+
+.myContent {
+  text-align: center;
+  width: 670rpx;
+  margin-left: 40rpx;
+  margin-top: 10px;
+}
+
+.textTit {
+  width: 600rpx;
+  text-align: center;
+}
+
+.textTit text {
+  font-size: 45rpx;
+  font-weight: bolder;
+}
+
+.textContent {
+  height: 220px;
+  width: 570rpx;
+  border: 10px solid #fff;
+}
